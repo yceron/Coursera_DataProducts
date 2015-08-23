@@ -1,0 +1,48 @@
+
+h1 {color: #336699; font-weight:bold;}
+h2 {color: #336699;}
+label {color:#336699}
+img { border-radius:10px; border: solid 1px #e0e0e0}
+.help-block {font-weight:bold; color:#000000; font-size:1.1em;}
+.instructions {margin:10px 0 10px 0; background-color:#eeeeee; color:#000000; border-radius:10px; border:solid 1px #e0e0e0; padding:10px;}
+.footer {margin:10px 0 10px 0; color:#777777; padding:15px 10px 15px 10px;}
+
+.intro {font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #777777;}
+	
+	
+table {
+  font-family: 'Arial';
+  margin: 15px auto;
+  border-collapse: collapse;
+  border: 1px solid #eee;
+  border-bottom: 2px solid #00cccc;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1), 0px 10px 20px rgba(0, 0, 0, 0.05), 0px 20px 20px rgba(0, 0, 0, 0.05), 0px 30px 20px rgba(0, 0, 0, 0.05);
+}
+table tr:hover {
+  background: #f4f4f4;
+}
+table tr:hover td {
+  color: #555;
+}
+table th, table td {
+  color: #777777;
+  border: 1px solid #eee;
+  padding: 12px 35px;
+  border-collapse: collapse;
+}
+table th {
+  background: #336699;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+table th.last {
+  border-right: none;
+}	
+
+table tr:nth-child(even) {
+  background-color:#eeeeee;
+}
